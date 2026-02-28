@@ -188,7 +188,9 @@ body {
 .contact a:hover {
     text-decoration: underline;
 }
-
+.contact a: {
+    color: white;
+}
 /* RESPONSIVE */
 @media (min-width: 768px) {
     .herocontainer {
@@ -209,4 +211,5 @@ body {
         gap: 20px;
     }
 }
+
 
